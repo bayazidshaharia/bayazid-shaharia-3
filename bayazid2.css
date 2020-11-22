@@ -1,0 +1,137 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin-left: 5%;
+    padding:2%;
+}
+section{
+    /* height: 700px; */
+}
+.bay1000{
+    margin-left: 10%;
+}
+.top1{
+    
+    padding-bottom: 100px;
+    background-image: url(bayazid8.png);
+    background-repeat: no-repeat;
+ 
+}
+    h1{
+        font-size: 200%;
+        color: tomato;
+    }
+    h2{
+        font-size: 150%;
+    }
+    h3{
+        font-size: 120%;
+        color: rgb(24, 209, 255);
+    }
+    h4{
+        font-size: 90%;
+        color: rgb(66, 3, 148);
+    }
+    .bay1{
+        width: 40%;
+        float: left;
+        text-transform: uppercase;
+        /* margin-left: 5%;
+        padding: 2%; */
+    }
+    .bay2{
+        color: rgb(245, 109, 19);
+    }
+    .bay3{
+        text-decoration:none;
+        text-transform: uppercase;
+        color: rgb(62, 231, 253);
+        padding: 10px,30px rad 10px;
+        background: linear-gradient( rgb(92, 37, 245),rgb(44, 224, 248)); 
+          
+    }
+    .bay4{
+        widows: 100px;
+   
+    }
+    h5{
+        font-size: 200%;
+        color: tomato;
+    }
+    h6{
+        width: 100%;
+        font-size: 120%;
+        text-align: center;
+        /* margin: 10%; */
+        /* text-align: end; */
+        /* text-align: center; */
+        /* padding-right: 10%; */
+    }
+    .top2{
+    
+        padding-bottom: 100px;
+        background-image: url(Bbayazid9.png);
+        background-repeat: no-repeat;
+     
+    }
+    .bay6{
+        widows: 100px;;
+        float: left;
+        margin: -10%;
+        align-items: flex-start
+        
+    }
+    .bay5{
+        widows: 30%;
+        text-align: center;
+        /* padding-top: 5%;
+        padding-right: 5%; */
+    }
+    p{
+        color: rgb(28, 239, 247);
+        font-size: 200%;
+        text-align: center;
+        text-transform: uppercase;
+        padding: 20px,20px;
+        background: linear-gradient(rgb(253, 32, 180),red);
+        margin-right: 5%;
+    }
+    .bay100{
+        width: 25%;
+        float: left;
+        margin-left: 5%;
+        box-shadow:10PX,10px cadetblue;
+        /* margin: -2000%%; */
+       
+        text-transform: uppercase;
+    }
+    #bay1{
+        text-align: center;
+    }
+    .bay10{
+        padding-bottom: 100px;
+        background-image: url(bayazid10.png);
+        background-repeat: no-repeat;
+    }
+    .bay101{
+        /* border-left:7px rgb(4, 8, 212) solid; */
+        background-color: rgb(255, 229, 208);
+        box-shadow:10px 10px  30px rgb(103, 139, 150);
+        border-left:7px solid;
+        border-image: linear-gradient(180deg,blue,cyan);
+        border-image-slice: 1;
+    }
+    .bay102{
+        /* border-left:7px rgb(24, 170, 255) solid; */
+        /* background-color: rgb(101, 8, 252);
+        box-shadow:10px 10px  30px rgb(103, 139, 150); */
+        border-left:7px solid;
+        border-image: linear-gradient(180deg,blue,cyan);
+        border-image-slice: 1;
+    }
+        
+ 
+
+
+
+
+
